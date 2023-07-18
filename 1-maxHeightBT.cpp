@@ -31,12 +31,3 @@ int main(){
     int height = max_height(root);
     cout<<"Height of the Binary Tree is: "<<height<<endl;
 }
-/***
-                     1
-                   /   \
-                  2     3
-                 / \
-                4   5
-                   /
-                  6
-***/
